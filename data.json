@@ -1,0 +1,117 @@
+[
+	{
+		"title":"More Information",
+		"text":"To view these pages in their entirety use the QR code to the left or the bottom right of each page or go to http://bit.ly/17soaJV",
+		"image":"qrcode.png",
+		"url":"http://wais-demo.ecs.soton.ac.uk/b32info/slideshow.php"
+	},
+	{
+		"title":"Yvonne Howard",
+		"text":"Yvonne Howard is one of the WAIS lab managers.  She sits in bay 9 at the South (<font style=\"color: green;\">green</font>) end of level 3.",
+		"image":"yvonne.jpg",
+		"url":"http://www.ecs.soton.ac.uk/people/ymh"
+	},
+	{
+                "title":"Rikki Prince",
+                "text":"Rikki Prince is one of the WAIS lab managers.  He sits in bay 9 at the South (<font style=\"color: green;\">green</font>) end of level 3.",
+                "image":"rikki.jpg",
+		"url":"http://www.ecs.soton.ac.uk/people/rfp"
+        },
+	{
+                "title":"Dan Smith",
+                "text":"Dan Smith is one of the WAIS lab managers.  He sits in bay 5 at the North (<font style=\"color: red;\">red</font>) end of level 3.",
+                "image":"dan.jpg",
+		"url":"http://www.ecs.soton.ac.uk/people/ds"
+        },
+	{
+                "title":"Luke Teacy",
+                "text":"Luke Teacy is the AIC lab manager.  He sits in bay 17 at the North (<font style=\"color: red;\">red</font>) end of level 4.",
+                "image":"luke.jpg",
+		"url":"http://www.ecs.soton.ac.uk/people/wtlt"
+        },
+	{
+                "title":"Nine Screens",
+                "text":"This is displayed on Ninescreens.  Read the A4 notice to the left of these screens to find out more.",
+                "image":"ninescreens.jpg",
+		"url":"http://awareness-screen.ecs.soton.ac.uk/"
+        },
+	{
+		"title":"Food Waste",
+		"text":"Food Waste (inc. paper towels) should be put in the blueish-grey caddies in the kitchenettes in the coffee room and North and South ends.",
+		"image":"foodwastecaddy.jpg",
+		"url":"http://www.southampton.ac.uk/estates/services/wasterecycling/waste_atoz.html"
+	},
+	{
+                "title":"Washing Up",
+                "text":"Any washing up should be put in the dishwasher.  If it is full or running, you can wash it up in the sink and dry it using a paper towel.",
+                "image":"washingup.jpg",
+		"url":"http://video.about.com/housekeeping/How-to-Load-a-Dishwasher.htm"
+        },
+	{
+                "title":"Mixed Recycling",
+                "text":"Most things can be recycled.  Check the instructions next to the mixed recycling bins.  If you are still unsure ask a lab manager.",
+                "image":"mixedrecycling.jpg",
+		"url":"http://www.southampton.ac.uk/estates/services/wasterecycling/waste_atoz.html"
+        },
+	{
+                "title":"Poster Printer",
+                "text":"There is a large poster printer in the room next to the bottom of the stairs.  For help using this printer email<br/>b32-poster-printer@ecs.soton.ac.uk",
+                "image":"posterprinter.jpg",
+		"url":"mailto:b32-poster-printer@ecs.soton.ac.uk"
+        },
+	{
+		"title":"Managed Printers",
+                "text":"Printers in the lab are black and white and those at the North and South end are colour.  They can be printed to using the managed print service.",
+                "image":"managedprinters.jpg",
+		"url":"http://www.southampton.ac.uk/isolutions/services/printing_on_managed_mfd/how_do_i.php"
+	},
+	{
+		"title":"Coffee Room",
+		"text":"The coffee room is a shared space for all of ECS in building 32.  It is common for people to have coffee breaks at 10:30am and 3:30pm.",
+                "image":"coffeeroom.jpg",
+		"url":"http://wais-demo.ecs.soton.ac.uk/calendars/view/"
+        },
+	{
+                "title":"CakeCam",
+                "text":"CakeCam is on top of the large TV in the Coffee Room. Press F1 on the keyboard to photo leftover food and it will tweet and email<br/>b32-cake-cam@ecs.soton.ac.uk",
+                "image":"cakecam.jpg",
+		"url":"https://twitter.com/B32CakeCam"
+        },
+	{
+		"title":"Your Suggestions",
+		"text":"To suggest new information pages email drn@ecs.soton.ac.uk with the picture and text you want to be used for this page.",
+		"image":"yourinfopage.png",
+		"url:":"mailto:drn:ecs.soton.ac.uk?subject=B32+Info+Pages+Suggestion"
+	},
+	{
+                "title":"Fire Alarms",
+                "text":"The building's fire alarms are tested around 11am on Mondays.  If the alarm sounds at any other time you should leave the building and assemble in the car park to the North of the builidng.",
+                "image":"firealarm.jpg",
+                "url:":"http://www.southampton.ac.uk/healthandsafety/safety/whats_on/training/Intro_health_safety.ppt"
+        },
+	{
+                "title":"Post and Parcels",
+                "text":"Post for those working in the lab is delivered to the pigeon holes in the Coffee Room.  Parcels delivered can be collected from the group offices either end of the building.",
+                "image":"pigeonholes.jpg",
+                "url:":"http://www.southampton.ac.uk/estates/services/postportering/postroom/"
+        },
+	{
+		"title":"Security Cables",
+		"text":"Most computers and monitors in the lab are connected to the security system via a <font style=\"color: red;\">red</font> cable.  Do not unplug these cable.  If you need something off the security system request this through ECS Jitterbug.",
+		"image":"security_cable.jpg",
+		"url":"https://secure.ecs.soton.ac.uk/cgi-bin/jbug/systems?newbug=1&folder=Alarm_Changes"
+	},
+	{
+		"title":"Polystyrene",
+                "text":"Large pieces of polysterene should not be put in the mixed recycling bins.  Instead they should be taken to the large Green Space bins outside Building 16.",
+                "image":"polystyrene.png",
+                "url":"http://www.southampton.ac.uk/estates/services/wasterecycling/waste_atoz.html"
+
+	},
+	{
+		"title":"Building 32 Wiki",
+		"text":"The ECS wiki can be contributed to by any member of ECS.  The QR code to the left will take you to the Building 32 wiki page, which has useful links and building specific information.",
+		"image":"wiki_qrcode.png",
+		"url":"https://secure.ecs.soton.ac.uk/wiki/w/Building_32"
+	}
+]
