@@ -19,7 +19,7 @@ If you want to add a page the easiest way is probably to email me (drn@ecs.soton
                 "text":"To view these pages in their entirety use the QR code to the left or the bottom right of each page or go to http://bit.ly/17soaJV",
                 "image":"qrcode.png",
                 "url":"http://wais-demo.ecs.soton.ac.uk/b32info/slideshow.php"
-        },
+        }
 
 3. Place your image in the htdocs/img/ folder and make sure its name corresponds to what you set for image in data.json.
 
