@@ -118,5 +118,11 @@
 		"text":"There will be a Bake Sale in aid of Children in Need in the Coffee Room on Tuesday 12th November at 11am. Please donate baking creations (or shop bought goodies) and buy a cake or two.",
 		"image":"bakesale.png",
 		"url":"http://www.bbc.co.uk/programmes/b008dk4b"
-	}
+	},
+	{
+		"title":"Erica is Back",
+		"text":"Erica has returned. To get involved with future modifications and other Erica-related projects, come to the meeting on Monday 1-2pm in the Access Grid Room or email rhino@ecs.soton.ac.uk" ,
+		"image":"erica.jpg",
+		"url":"http://www.ericatherhino.org"
+	}	
 ]
