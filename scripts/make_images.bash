@@ -25,3 +25,4 @@ else
 		make_image $p
 	done
 fi
+rm 0

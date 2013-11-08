@@ -113,5 +113,10 @@
 		"text":"The ECS wiki can be contributed to by any member of ECS.  The QR code to the left will take you to the Building 32 wiki page, which has useful links and building specific information.",
 		"image":"wiki_qrcode.png",
 		"url":"https://secure.ecs.soton.ac.uk/wiki/w/Building_32"
+	},
+	{	"title":"Children in Need Bake Sale",
+		"text":"There will be a Bake Sale in aid of Children in Need in the Coffee Room on Tuesday 12th November at 11am. Please donate baking creations (or shop bought goodies) and buy a cake or two.",
+		"image":"bakesale.png",
+		"url":"http://www.bbc.co.uk/programmes/b008dk4b"
 	}
 ]
