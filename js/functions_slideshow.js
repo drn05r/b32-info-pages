@@ -65,11 +65,23 @@ $(document).ready(function() {
 	var url = item['url'];
 	var nextpage = currentpage + 1;
 	if (nextpage == nopages) {
-		nextpage = 0;
+        	nextpage = 0;
+        }
+	while (pages[nextpage]['disabled'] == 1) {
+		nextpage++;
+		if (nextpage == nopages) {
+			nextpage = 0;
+		}
 	}
 	var prevpage = currentpage - 1;
 	if (prevpage == -1) {
-		prevpage = nopages -1;
+                        prevpage = nopages -1;
+        }
+	while (pages[prevpage]['disabled'] == 1) {
+		prevpage--;
+		if (prevpage == -1) {
+			prevpage = nopages -1;
+		}
 	}
 	var title = 'Building 32<br/>Information<br/>Pages';
         var qrcode = 'img/qrcode_small.png';

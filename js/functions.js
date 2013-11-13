@@ -64,9 +64,10 @@ $(document).ready(function() {
 	var c = pages.length;
 	var r = Math.random();
 	var i = parseInt(r * c);
+	while (pages[i]['disabled'] == 1) {
+		var i = parseInt(r * c);
+	}
 	var item = pages[i];
-
-
 	var text = item['text'];
 	var fontsize = (window.innerWidth / 2.6) / Math.pow(text.length, 1/2);
 	var imageurl = 'img/' + item['image'];
