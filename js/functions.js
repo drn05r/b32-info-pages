@@ -64,8 +64,15 @@ $(document).ready(function() {
 	var c = pages.length;
 	var r = Math.random();
 	var i = parseInt(r * c);
+	var attempts = 0;
 	while (pages[i]['disabled'] == 1) {
-		var i = parseInt(r * c);
+		if (attempts > 10) {
+                        i = 0;
+                        break;
+                }
+		r = Math.random();
+		i = parseInt(r * c);
+		attempts++;
 	}
 	var item = pages[i];
 	var text = item['text'];
