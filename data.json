@@ -143,5 +143,12 @@
 		"image":"erica.jpg",
 		"url":"http://www.ericatherhino.org",
                 "disabled":0
-	}	
+	},
+	{
+                "title":"Kicking off WAISFest 2014",
+                "text":"March's Third Thursday Meeting:  we will be discussing forming WAIS Fest research themes and projects. Come join in the discussion and propose an exciting research topic for our annual research festival.",
+                "image":"waisfestlogo.png",
+                "url":"https://secure.ecs.soton.ac.uk/wiki/w/WAISFest2014",
+                "disabled":0
+        }
 ]
